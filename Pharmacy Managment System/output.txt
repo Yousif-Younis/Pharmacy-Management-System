@@ -1,0 +1,37 @@
+
+
+---------------------------Add Users-------------------------------
+List of All Users:
+User ID: 501, User Name: Cashier1
+User ID: 2, User Name: Youssef
+User ID: 3, User Name: Customer1
+User ID: 4, User Name: Customer2
+User ID: 1, User Name: John Doe
+
+List of All Users After Editing:
+User ID: 501, User Name: Cashier1
+User ID: 2, User Name: EditedCashier
+User ID: 3, User Name: Customer1
+User ID: 4, User Name: Customer2
+User ID: 1, User Name: Da ana lesa 3amlo edit
+
+List of All Users After Removing:
+User ID: 501, User Name: Cashier1
+User ID: 3, User Name: Customer1
+User ID: 4, User Name: Customer2
+User ID: 1, User Name: Da ana lesa 3amlo edit
+User ID: 55, User Name: Customer333
+
+
+----------------------Menu Driven for Methods---------------------------
+Initial Stock:
+Stock:
+Product ID: 101, Quantity: 50
+Product ID: 202, Quantity: 30
+
+Quantity of Sample Product 1: 100
+
+Updated Stock:
+Stock:
+Product ID: 101, Quantity: 100
+Product ID: 202, Quantity: 30
